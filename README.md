@@ -1,0 +1,1 @@
+Organization「supernurse-develop」の検証用に使用するパブリックリポジトリです。
